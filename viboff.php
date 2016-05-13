@@ -1,0 +1,3 @@
+<?php
+	system("sudo ./viboff");
+?>
